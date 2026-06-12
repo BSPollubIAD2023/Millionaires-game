@@ -1,0 +1,14 @@
+Bartek;1000000
+Andrzej;0
+ola;0
+llll;0
+kkkkkkk;0
+hh;0
+mm;0
+k;0
+K;0
+L;0
+B;1000000
+A;2000
+b;0
+l;0

@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/">
+    <file>resources/Milionerzy_tlo.jpg</file>
+    <file>resources/Tlo1.jpg</file>
+    <file>resources/Tlo2.jpg</file>
+    <file>resources/Tlo3.jpg</file>
+    <file>resources/Tlo4.png</file>
+    <file>resources/Tlo5.jpg</file>
+    <file>resources/Wstyd.png</file>
+    <file>resources/winnie.jpeg</file>
+    <file>resources/Jp2.jpg</file>
+    <file>resources/Rmc.webp</file>
+    <file>resources/tom.jpg</file>
+    <file>resources/KR.jpg</file>
+    <file>resources/Wygrana.jpg</file>
+
+
+
+  </qresource>
+</RCC>
